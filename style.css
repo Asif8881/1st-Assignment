@@ -21,6 +21,7 @@
     background-color: white;
     border: 1px solid green;
     font-weight: bold;
+    border-radius: 8px;
 }
 .Banair-Container{
     width: 100%;
@@ -270,15 +271,3 @@ td{
     margin-left: 50px;
     margin-right: 50px;
 }
-/* .form-sub2{
-    display: flex;
-    width: 600px;
-    height: 55px;
-    position: static;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-    gap: 24px;
-    padding: 18px 40px 18px 40px;
-    
-} */
