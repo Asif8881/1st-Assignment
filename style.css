@@ -47,7 +47,7 @@
     
 }
 .marjin{
-    margin: 20px;
+    margin: 100px;
 }
 .button{
     padding: 10px 20px;
@@ -126,6 +126,7 @@
     padding: 15px;
     box-shadow: 50px 60px 50px 00px rgb(rgb(36, 34, 34), green, blue);
     background-position:  top bottom right;
+   
 }
 .size{
     font-size: 40px;
@@ -149,6 +150,10 @@ td{
     border-radius: 15px;
     margin: 14px;
 }
+.Bangladesh{
+    color: rgba(14, 14, 14, 0.5);
+}
+
 
 
 
@@ -213,7 +218,11 @@ td{
     background-color: #C6E4D6;
     border-radius: 16px;
     text-align: center;
-    height: 199px;
+    height: 250px;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
  }
  .form2{
     display: flex;
@@ -234,8 +243,10 @@ td{
 .input-type input {
     width: 500px;
     height: 45px;
-    padding-left: 300px;
+    padding-left: 400px;
     outline: none;
+    margin-top: 30px;
+    
     
 }
 .input-type{
@@ -244,6 +255,30 @@ td{
     justify-content: center;
     margin-top: 20px;
 }
-.form5{
-    display: flex;
+.button3{
+    text-align: center;
+    margin-top: 30px;
 }
+.sub-class{
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    text-align: center;
+    height: 250px;
+    height: 300px;
+   
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+/* .form-sub2{
+    display: flex;
+    width: 600px;
+    height: 55px;
+    position: static;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 24px;
+    padding: 18px 40px 18px 40px;
+    
+} */
