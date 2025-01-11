@@ -191,7 +191,11 @@ td{
  }
  .form1{
     font-size: 200px;
+    width: 500px;
  }
+ /* .input-type input input{
+    width: 500px;
+ } */
  .fooder_img{
     display: flex;
     justify-content: center;
@@ -202,5 +206,44 @@ td{
  }
  .fooder-clr{
     background-color: rgb(255, 255, 255);
-    box-shadow: 0px 6px 50px 6px;
+    /* box-shadow: 0px 6px 50px 6px; */
+    
  }
+ .subscribe{
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    text-align: center;
+    height: 199px;
+ }
+ .form2{
+    display: flex;
+ }
+ .takaaaaaa{
+    display: flex;
+    background-color: rgb(238, 240, 240);
+    border-radius: 15px;
+    padding: 20px 50px;
+ }
+ .Ta{
+    display: flex;
+    gap: 100px;
+    justify-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.input-type input {
+    width: 500px;
+    height: 45px;
+    padding-left: 300px;
+    outline: none;
+    
+}
+.input-type{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.form5{
+    display: flex;
+}
