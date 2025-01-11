@@ -28,7 +28,7 @@
     border: 1px solid gray;
     background-color: #C6E4D6;
     justify-content: space-between;
-    border-radius: 10px;
+    border-radius: 20px;
     display: flex;
        
 }
@@ -45,6 +45,9 @@
     margin-right: 50px;
     margin-top: 100px;
     
+}
+.marjin{
+    margin: 20px;
 }
 .button{
     padding: 10px 20px;
@@ -90,7 +93,7 @@
     padding: 30px;
 }
 .main3{
-    background-color: rgb(189, 174, 89);
+    background-color: rgb(252, 217, 20);
     border-radius: 10px;
     padding: 30px;
 }
@@ -101,3 +104,103 @@
     color: #ffffffef;
     border-radius: 10px;
 }
+.bnt2{
+    padding: 10px 20px;
+    background-color: rgb(71, 163, 84);
+    font-weight: bold;
+    color: #fffffffd;
+    border-radius: 10px;
+}
+.bnt3{
+    padding: 10px 20px;
+    background-color: rgb(238, 211, 57);
+    font-weight: bold;
+    color: #fffffffd;
+    border-radius: 10px;
+}
+.younus-container{
+    background-image: url(assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-color: rgba(244, 245, 242, 0.993);
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 50px 60px 50px 00px rgb(rgb(36, 34, 34), green, blue);
+    background-position:  top bottom right;
+}
+.size{
+    font-size: 40px;
+}
+.main-table{
+    background-color: aliceblue;
+    border-radius: 10px;
+    display: flex;
+}
+.table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 20px;
+    
+}
+td{
+    border: 1px solid black;
+}
+/* aita acono Baki Ase Aitar Kaj Pore Korbo Cz Partasi Na Aita */
+.img-s{
+    border-radius: 15px;
+    margin: 14px;
+}
+
+
+
+.main-satellit{
+    display: flex;
+    background-color: rgb(248, 244, 244);
+    border-radius: 15px;
+}
+.alj-img{
+    margin: 35px;
+    
+}
+.set-button{
+    padding: 13px 25px;
+    background-color: rgb(28, 114, 20);
+    border: 1px solid rgb(240, 241, 240);
+    font-weight: bold;
+    border-radius: 8px;
+    color: #ffffffef;
+}
+.donate{
+    justify-content: center;
+    text-align: center;
+    
+}
+.taka{
+    display: flex;
+    gap: 100px ;
+    text-align: center;
+    border: 100px;
+}
+ .takaa{
+    gap: 100px ;
+    justify-content: center;
+    background-color: rgb(195, 211, 211);
+    font-size: 55px;
+    border-radius: 15px;
+    margin: 10px 20px;
+    
+ }
+ .form1{
+    font-size: 200px;
+ }
+ .fooder_img{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+ }
+ .fooder-h{
+    text-align: center;
+ }
+ .fooder-clr{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 6px 50px 6px;
+ }
